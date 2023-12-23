@@ -6,6 +6,8 @@ This is a Discord Bot. The bot's sole purpose is to announce arrivals and depart
 
 - Make sure to have [Go (Golang)](https://golang.org) installed.
 
+- Go to src/ directory.
+
 - Let Go install all library dependencies: `go mod tidy`.
 
 - Build the program: `go build .`.
